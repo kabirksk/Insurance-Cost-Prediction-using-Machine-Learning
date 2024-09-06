@@ -54,3 +54,11 @@ To run this project, you need to install the following Python packages:
 You can do this using pip. Ensure you have Python 3.6 or later installed.
 
 **Result**
+
+Among the three models evaluated—Linear Regression, Gradient Boosting, and Random Forest—Gradient Boosting achieved the highest accuracy and is therefore recommended as the ideal model for predicting insurance costs. Performance metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²) demonstrate that Gradient Boosting provides the most accurate and reliable predictions for this dataset.
+
+**Contact**
+
+Name: Kabir Kaushik <br/>
+Email: kabir.kaushik0414@gmail.com <br/>
+GitHub: kabirksk <br/>
